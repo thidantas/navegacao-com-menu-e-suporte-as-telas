@@ -1,8 +1,8 @@
 import React from "react";
 import "intl";
 import "intl/locale-data/jsonp/pt-BR";
-import Carrinho from "./src/telas/Carrinho";
+import Rotas from "./src/Rotas";
 
 export default function App() {
-  return <Carrinho />;
+  return <Rotas />;
 }

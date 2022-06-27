@@ -1,6 +1,5 @@
 import React from "react";
 import { TouchableOpacity, Text } from "react-native";
-import estilos from "./estilos";
 import funcaoEstilosPadrao from "./estilos";
 
 export default function Botao({
